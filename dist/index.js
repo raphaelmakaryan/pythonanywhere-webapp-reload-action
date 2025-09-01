@@ -99,7 +99,7 @@
         //# sourceMappingURL=command.js.map
 
         /***/
-}),
+      }),
 
 /***/ 6024:
 /***/ (function (__unused_webpack_module, exports, __nccwpck_require__) {
@@ -419,7 +419,7 @@
         //# sourceMappingURL=core.js.map
 
         /***/
-}),
+      }),
 
 /***/ 8466:
 /***/ (function (__unused_webpack_module, exports, __nccwpck_require__) {
@@ -469,7 +469,7 @@
         //# sourceMappingURL=file-command.js.map
 
         /***/
-}),
+      }),
 
 /***/ 7557:
 /***/ (function (__unused_webpack_module, exports, __nccwpck_require__) {
@@ -554,7 +554,7 @@
         //# sourceMappingURL=oidc-utils.js.map
 
         /***/
-}),
+      }),
 
 /***/ 7369:
 /***/ ((__unused_webpack_module, exports) => {
@@ -602,7 +602,7 @@
         //# sourceMappingURL=utils.js.map
 
         /***/
-}),
+      }),
 
 /***/ 4946:
 /***/ ((__unused_webpack_module, exports) => {
@@ -669,7 +669,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 9628:
 /***/ ((__unused_webpack_module, exports, __nccwpck_require__) => {
@@ -1215,7 +1215,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 6305:
 /***/ ((__unused_webpack_module, exports) => {
@@ -1281,7 +1281,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 992:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -1289,7 +1289,7 @@
         module.exports = __nccwpck_require__(6637);
 
         /***/
-}),
+      }),
 
 /***/ 6059:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -1686,7 +1686,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 1490:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -1907,7 +1907,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 6637:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -1973,7 +1973,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 3417:
 /***/ ((module) => {
@@ -2001,7 +2001,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 3198:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2129,7 +2129,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 8458:
 /***/ ((module) => {
@@ -2143,7 +2143,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 3274:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2307,7 +2307,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 4519:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2370,7 +2370,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 6619:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2399,7 +2399,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 6972:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2426,7 +2426,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 6707:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2522,7 +2522,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 5873:
 /***/ ((module) => {
@@ -2574,7 +2574,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 6746:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2682,7 +2682,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 3578:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2716,7 +2716,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 2659:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2747,7 +2747,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 7323:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2890,7 +2890,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 1657:
 /***/ ((module) => {
@@ -2900,7 +2900,7 @@
         };
 
         /***/
-}),
+      }),
 
 /***/ 8743:
 /***/ ((module) => {
@@ -2920,7 +2920,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 1218:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -2999,7 +2999,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 857:
 /***/ ((module) => {
@@ -3022,7 +3022,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 5032:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -3084,7 +3084,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 788:
 /***/ ((module) => {
@@ -3107,7 +3107,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 1185:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -3129,7 +3129,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 7364:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -3206,7 +3206,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 9478:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -3227,7 +3227,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 1758:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -3289,7 +3289,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 6683:
 /***/ ((module) => {
@@ -3325,7 +3325,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 5658:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -3416,7 +3416,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 6049:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -3774,7 +3774,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 4496:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -3797,7 +3797,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 3854:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -4378,7 +4378,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 9958:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
@@ -4387,7 +4387,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 9306:
 /***/ ((__unused_webpack_module, exports, __nccwpck_require__) => {
@@ -4660,7 +4660,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 390:
 /***/ ((module) => {
@@ -4669,7 +4669,7 @@
 
 
         /***/
-}),
+      }),
 
 /***/ 9491:
 /***/ ((module) => {
@@ -4678,7 +4678,7 @@
         module.exports = require("assert");
 
         /***/
-}),
+      }),
 
 /***/ 2361:
 /***/ ((module) => {
@@ -4687,7 +4687,7 @@
         module.exports = require("events");
 
         /***/
-}),
+      }),
 
 /***/ 7147:
 /***/ ((module) => {
@@ -4696,7 +4696,7 @@
         module.exports = require("fs");
 
         /***/
-}),
+      }),
 
 /***/ 3685:
 /***/ ((module) => {
@@ -4705,7 +4705,7 @@
         module.exports = require("http");
 
         /***/
-}),
+      }),
 
 /***/ 5687:
 /***/ ((module) => {
@@ -4714,7 +4714,7 @@
         module.exports = require("https");
 
         /***/
-}),
+      }),
 
 /***/ 1808:
 /***/ ((module) => {
@@ -4723,7 +4723,7 @@
         module.exports = require("net");
 
         /***/
-}),
+      }),
 
 /***/ 2037:
 /***/ ((module) => {
@@ -4732,7 +4732,7 @@
         module.exports = require("os");
 
         /***/
-}),
+      }),
 
 /***/ 1017:
 /***/ ((module) => {
@@ -4741,7 +4741,7 @@
         module.exports = require("path");
 
         /***/
-}),
+      }),
 
 /***/ 2781:
 /***/ ((module) => {
@@ -4750,7 +4750,7 @@
         module.exports = require("stream");
 
         /***/
-}),
+      }),
 
 /***/ 4404:
 /***/ ((module) => {
@@ -4759,7 +4759,7 @@
         module.exports = require("tls");
 
         /***/
-}),
+      }),
 
 /***/ 7310:
 /***/ ((module) => {
@@ -4768,7 +4768,7 @@
         module.exports = require("url");
 
         /***/
-}),
+      }),
 
 /***/ 3837:
 /***/ ((module) => {
@@ -4777,7 +4777,7 @@
         module.exports = require("util");
 
         /***/
-}),
+      }),
 
 /***/ 9796:
 /***/ ((module) => {
@@ -4786,10 +4786,10 @@
         module.exports = require("zlib");
 
         /***/
-})
+      })
 
     /******/
-});
+  });
 /************************************************************************/
 /******/ 	// The module cache
 /******/ 	var __webpack_module_cache__ = {};
@@ -4801,14 +4801,14 @@
 /******/ 		if (cachedModule !== undefined) {
 /******/ 			return cachedModule.exports;
       /******/
-}
+    }
 /******/ 		// Create a new module (and put it into the cache)
 /******/ 		var module = __webpack_module_cache__[moduleId] = {
 /******/ 			// no module.id needed
 /******/ 			// no module.loaded needed
 /******/ 			exports: {}
       /******/
-};
+    };
 /******/
 /******/ 		// Execute the module function
 /******/ 		var threw = true;
@@ -4816,15 +4816,15 @@
 /******/ 			__webpack_modules__[moduleId].call(module.exports, module, module.exports, __nccwpck_require__);
 /******/ 			threw = false;
       /******/
-} finally {
+    } finally {
 /******/ 			if (threw) delete __webpack_module_cache__[moduleId];
       /******/
-}
+    }
 /******/
 /******/ 		// Return the exports of the module
 /******/ 		return module.exports;
     /******/
-}
+  }
 /******/
 /************************************************************************/
 /******/ 	/* webpack/runtime/compat */
@@ -4836,38 +4836,81 @@
   // This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
   (() => {
 
-    try {
-      const username = process.env.PYANYWHERE_USERNAME;
-      const apiToken = process.env.PYANYWHERE_API_TOKEN;
+    function gitPullApp() {
+      try {
+        const username = process.env.PYANYWHERE_USERNAME;
+        const apiToken = process.env.PYANYWHERE_API_TOKEN;
+        const consoleId = process.env.PYANYWHERE_CONSOLE_ID;
 
-      const url = `https://www.pythonanywhere.com/api/v0/user/${username}/webapps/${username}.pythonanywhere.com/reload/`;
+        const url = `https://www.pythonanywhere.com/api/v0/user/${username}/consoles/${consoleId}/send_input/`;
 
-      console.log("Essaie du fetch sur l'url : ", url);
-      fetch(url, {
-        method: 'POST',
-        headers: {
-          'Authorization': `Token ${apiToken}`
-        }
-      })
-        .then(response => {
-          if (!response.ok) {
-            throw new Error(`HTTP error! Status: ${response.status}`);
-          }
-          return response.json();
-        })
-        .then(data => {
-          console.log("✅ Reloaded webapp successfully:", data);
-        })
-        .catch(error => {
-          console.error("❌ Une erreur est survenue :", error);
+        console.log("Essaie du fetch sur l'url : ", url);
+
+        const response = fetch(url, {
+          method: 'POST',
+          headers: {
+            'Authorization': `Token ${apiToken}`,
+            'Content-Type': 'text/plain'
+          },
+          body: 'git pull'
         });
-    } catch (error) {
-      console.error("❌ Une erreur est survenue :", error);
-      if (error.response) {
-        console.error("Status:", error.response.status);
-        console.error("Data:", error.response.data);
+
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+
+        const data = response.json();
+        console.log("✅ Git pull exécuté avec succès:", data);
+
+      } catch (error) {
+        console.error("❌ Une erreur est survenue :", error);
+        if (error.response) {
+          console.error("Status:", error.response.status);
+          console.error("Data:", error.response.data);
+        }
       }
     }
+
+
+    function reloadWeb() {
+      try {
+        const username = process.env.PYANYWHERE_USERNAME;
+        const apiToken = process.env.PYANYWHERE_API_TOKEN;
+
+        const url = `https://www.pythonanywhere.com/api/v0/user/${username}/webapps/${username}.pythonanywhere.com/reload/`;
+
+        console.log("Essaie du fetch sur l'url : ", url);
+
+        fetch(url, {
+          method: 'POST',
+          headers: {
+            'Authorization': `Token ${apiToken}`
+          }
+        })
+          .then(response => {
+            if (!response.ok) {
+              throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.json();
+          })
+          .then(data => {
+            console.log("✅ Reloaded webapp successfully:", data);
+          })
+          .catch(error => {
+            console.error("❌ Une erreur est survenue :", error);
+          });
+
+      } catch (error) {
+        console.error("❌ Une erreur est survenue :", error);
+        if (error.response) {
+          console.error("Status:", error.response.status);
+          console.error("Data:", error.response.data);
+        }
+      }
+    }
+
+    gitPullApp();
+    reloadWeb();
   })();
 
   module.exports = __webpack_exports__;
