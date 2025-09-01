@@ -17,6 +17,7 @@ try {
     })
     .catch(function (error) {
         core.setFailed(error.message);
+        console.log("Une erreur est survenue : ", error)
     });
 } catch (error) {
     core.setFailed(error.message);
