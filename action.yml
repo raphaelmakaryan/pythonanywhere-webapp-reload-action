@@ -7,6 +7,9 @@ inputs:
   api-token: 
     description: 'API token for pythonanywhere'
     required: true
+  consoleId: 
+    description: 'Console id for pythonanywhere'
+    required: true
 runs:
   using: 'node16'
   main: 'dist/index.js'
