@@ -7,7 +7,7 @@ inputs:
   api-token: 
     description: 'API token for pythonanywhere'
     required: true
-  consoleId: 
+  console-id: 
     description: 'Console id for pythonanywhere'
     required: true
 runs:
