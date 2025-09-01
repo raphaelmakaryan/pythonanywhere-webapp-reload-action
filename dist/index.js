@@ -4844,7 +4844,7 @@
 
         const url = `https://www.pythonanywhere.com/api/v0/user/${username}/consoles/${consoleId}/send_input/`;
 
-        console.log("Essaie du fetch sur l'url : ", url);
+        console.log("Appel du git pull sur l'url : ", url);
 
         const response = fetch(url, {
           method: 'POST',
@@ -4879,7 +4879,7 @@
 
         const url = `https://www.pythonanywhere.com/api/v0/user/${username}/webapps/${username}.pythonanywhere.com/reload/`;
 
-        console.log("Essaie du fetch sur l'url : ", url);
+        console.log("Appel du reload sur l'url : ", url);
 
         fetch(url, {
           method: 'POST',
