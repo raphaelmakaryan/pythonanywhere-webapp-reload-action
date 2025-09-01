@@ -2,13 +2,9 @@ try {
     const username = process.env.PYANYWHERE_USERNAME;
     const apiToken = process.env.PYANYWHERE_API_TOKEN;
 
-    console.log("User:", username);
-    console.log("TOKEN:", apiToken);
-
     const url = `https://www.pythonanywhere.com/api/v0/user/${username}/webapps/${username}.pythonanywhere.com/reload/`;
-    console.log("URL:", url);
 
-    console.log('Trying to reload webapp...');
+    console.log("Essaie du fetch sur l'url : ", url);
 
     fetch(url, {
         method: 'POST',
