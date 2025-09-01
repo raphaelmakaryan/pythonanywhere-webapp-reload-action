@@ -17,9 +17,14 @@ async function run() {
         });
 
         console.log("✅ Reloaded webapp successfully:", response.status);
+        console.log("Response data:", response.data);
 
     } catch (error) {
-        console.error("❌ Une erreur est survenue :", error.response ? error.response.data : error.message);
+        console.error("❌ Une erreur est survenue :", error);
+        if (error.response) {
+            console.error("Status:", error.response.status);
+            console.error("Data:", error.response.data);
+        }
         core.setFailed(error.message);
     }
 }
