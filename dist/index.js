@@ -4836,44 +4836,6 @@
   // This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
   (() => {
 
-    function gitPullApp() {
-      try {
-        const username = process.env.PYANYWHERE_USERNAME;
-        const apiToken = process.env.PYANYWHERE_API_TOKEN;
-        const consoleId = process.env.PYANYWHERE_CONSOLE_ID;
-
-        const url = `https://www.pythonanywhere.com/api/v0/user/${username}/consoles/${consoleId}/send_input/`;
-
-        console.log("Appel du git pull sur l'url : ", url);
-
-        const response = fetch(url, {
-          method: 'POST',
-          headers: {
-            'Authorization': `Token ${apiToken}`,
-            'Content-Type': 'text/plain'
-          },
-          json: {
-            "input" : "git pull"
-          }
-        });
-
-        if (!response.ok) {
-          throw new Error(`HTTP error! Status: ${response.status}`);
-        }
-
-        const data = response.json();
-        console.log("✅ Git pull exécuté avec succès:", data);
-
-      } catch (error) {
-        console.error("❌ Une erreur est survenue :", error);
-        if (error.response) {
-          console.error("Status:", error.response.status);
-          console.error("Data:", error.response.data);
-        }
-      }
-    }
-
-
     function reloadWeb() {
       try {
         const username = process.env.PYANYWHERE_USERNAME;
@@ -4910,8 +4872,6 @@
         }
       }
     }
-
-    gitPullApp();
     reloadWeb();
   })();
 
