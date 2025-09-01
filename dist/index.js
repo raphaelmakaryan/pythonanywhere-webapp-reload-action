@@ -4852,7 +4852,9 @@
             'Authorization': `Token ${apiToken}`,
             'Content-Type': 'text/plain'
           },
-          body: 'git pull'
+          json: {
+            "input" : "git pull"
+          }
         });
 
         if (!response.ok) {
