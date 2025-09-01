@@ -1,6 +1,7 @@
 try {
-    const username = core.getInput('username');
-    const apiToken = core.getInput('api-token');
+    const username = process.env.PYANYWHERE_USERNAME;
+    const apiToken = process.env.PYANYWHERE_API_TOKEN;
+
     console.log("User:", username);
     console.log("TOKEN:", apiToken);
 
