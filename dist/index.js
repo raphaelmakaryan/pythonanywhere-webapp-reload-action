@@ -4837,8 +4837,8 @@
   (() => {
 
     try {
-      const username = core.getInput('username');
-      const apiToken = core.getInput('api-token');
+      const username = process.env.PYANYWHERE_USERNAME;
+      const apiToken = process.env.PYANYWHERE_API_TOKEN;
 
       const url = `https://www.pythonanywhere.com/api/v0/user/${username}/webapps/${username}.pythonanywhere.com/reload/`;
 
